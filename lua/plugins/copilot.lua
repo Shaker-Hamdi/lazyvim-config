@@ -4,8 +4,8 @@ return {
     cmd = "Copilot",
     build = ":Copilot auth",
     opts = {
-      suggestion = { enabled = true },
-      panel = { enabled = true },
+      suggestion = { enabled = true, auto_trigger = true, keymap = { accept = "<C-l>", next = "<C-]>", prev = "<C-[>" } },
+      panel = { enabled = true, auto_refresh = true },
     },
   }
 }
