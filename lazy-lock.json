@@ -1,4 +1,5 @@
 {
+  "FastFold": { "branch": "master", "commit": "ab3d199d288a51708c3181a25aba1f9de2050b89" },
   "LazyVim": { "branch": "main", "commit": "8bb0c9ddd85780f1490ba29388449e9ef68a68ae" },
   "LuaSnip": { "branch": "master", "commit": "54e06334a440b476fcc184fcf555cfd4ad9110c0" },
   "SchemaStore.nvim": { "branch": "main", "commit": "7cef97a6c432e631c639452a526f03350df2255f" },
@@ -16,6 +17,7 @@
   "friendly-snippets": { "branch": "main", "commit": "2f5b8a41659a19bd602497a35da8d81f1e88f6d9" },
   "git-blame.nvim": { "branch": "master", "commit": "1ad47c6454a5a53d3f4ffdd4022e84f4a6e376cb" },
   "gitsigns.nvim": { "branch": "main", "commit": "b1f9cf7c5c5639c006c937fc1819e09f358210fc" },
+  "gruvbox.nvim": { "branch": "main", "commit": "488acf89979463d3ab77f8a5d35a11a2c809ac19" },
   "indent-blankline.nvim": { "branch": "master", "commit": "018bd04d80c9a73d399c1061fa0c3b14a7614399" },
   "lazy.nvim": { "branch": "main", "commit": "5b4444f0d7e556deba3f7ca949a2ba0e2c3369fb" },
   "leap.nvim": { "branch": "main", "commit": "2ff8eac67bed41005ea2032728a0336c784de611" },
@@ -56,5 +58,7 @@
   "vim-illuminate": { "branch": "master", "commit": "49062ab1dd8fec91833a69f0a1344223dd59d643" },
   "vim-repeat": { "branch": "master", "commit": "24afe922e6a05891756ecf331f39a1f6743d3d5a" },
   "vim-startuptime": { "branch": "master", "commit": "6580cf539c33a212f4f5542068a3b4dd2b3ad834" },
+  "vim-syntaxMarkerFold": { "branch": "master", "commit": "22a99d8864b5b4a4ecfb7241674b10aad5995cde" },
+  "vscode.nvim": { "branch": "main", "commit": "51520c4cce13a969101fbcc4eb2435214c3f5794" },
   "which-key.nvim": { "branch": "main", "commit": "fb027738340502b556c3f43051f113bcaa7e8e63" }
 }
